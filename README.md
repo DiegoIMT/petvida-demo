@@ -1,19 +1,19 @@
-# NEXO Estudio Digital — Portafolio web
+# NEXO Estudio Digital
 
-Sitio estático para GitHub Pages con cinco demostraciones: veterinaria, barbería, restaurante, consultorio y automotriz. Incluye tarjetas de precios interactivas con efecto flip 3D, menú móvil, filtros y comparador visual simulado.
+Portafolio web y cinco demostraciones conceptuales de diseño para distintos giros comerciales.
 
-## Publicación
+## Sitios incluidos
 
-1. Sube el **contenido** de este ZIP a la raíz de tu repositorio (no la carpeta contenedora).
-2. GitHub → Settings → Pages → Build and deployment → Deploy from a branch → `main` / `(root)` → Save.
-3. Espera la publicación y visita `https://TU-USUARIO.github.io/TU-REPOSITORIO/`.
+- **PetVida:** veterinaria, selección interactiva de servicios.
+- **BLACKCUT:** barbería, lookbook filtrable.
+- **Sazón & Café:** restaurante, carta filtrable.
+- **Dental Nova:** consultorio, preguntas frecuentes desplegables.
+- **AUTOPRIME:** detailing automotriz, comparador visual simulado.
 
-## Antes de usar comercialmente
+## Tecnologías
 
-- El correo de contacto configurado en `index.html` es `diegomay100@gmail.com`. Puedes sustituirlo más adelante si deseas.
-- Revisa y confirma precios, servicios, política de revisiones y condiciones de pago.
-- Las fotografías se cargan desde Unsplash y necesitan conexión a internet; sustituye por imágenes con licencias apropiadas para uso comercial y atribuciones cuando proceda.
-- Los negocios de las demostraciones son ficticios. No hay formularios de reservas, pasarelas de pago ni backend.
+HTML, CSS y JavaScript. Diseño adaptable a móvil y escritorio, sin compilación ni backend.
 
-## Tecnología
-HTML, CSS y JavaScript sin compilación ni dependencias de framework.
+## Nota
+
+Los negocios son ficticios y las imágenes son ilustrativas y se obtienen de un proveedor externo. Las demostraciones no reciben reservas, pagos ni solicitudes reales. Los enlaces comerciales llevan al portafolio de NEXO.
